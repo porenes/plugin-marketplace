@@ -141,7 +141,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/wix/skills.git",
-        "sha": "d6320a21a2fc05333a7a894282207aec6aabfb06"
+        "sha": "39857c32742803d7e591c3a1ef66a2b50a6b9cd6"
       },
       "homepage": "https://dev.wix.com/docs/api-reference/articles/ai-tools/about-wix-skills",
       "keywords": ["wix", "wix cli", "wix mcp", "wix apps", "wix headless"],
@@ -246,7 +246,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/stripe/ai.git",
-        "sha": "579b067ffb461b82afc845c47b17fc8e8910488c",
+        "sha": "1bcd18aa0e69b0e4dad9e268b873c7e245d6da5e",
         "path": "providers/grok/plugin"
       },
       "homepage": "https://github.com/stripe/ai",
